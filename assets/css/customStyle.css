@@ -1,0 +1,12 @@
+:root {
+  --bs-primary: #a9abaf;   /* ny primærfarge (blå) */
+  --bs-secondary: #64748b; /* gråaktig sekundær */
+  --bs-success: #16a34a;   /* grønn */
+  --bs-danger: #dc2626;    /* rød */
+  --bs-warning: #facc15;   /* gul */
+  --bs-info: #0ea5e9;      /* cyan */
+}
+
+.bg-primary{
+    background-color: var(--bs-primary) !important;
+}
